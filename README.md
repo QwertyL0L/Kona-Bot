@@ -1,2 +1,2 @@
 # Kona-Bot
-a "voice controlled" chatbot
+a "voice controlled" discord chatbot
