@@ -153,4 +153,4 @@ async def stop(ctx):
     await ctx.send("Use -start to start infchat")
 
 
-bot.run('MTAxODM3NDExODQyMjM2MDA4NA.GovFfp.-IQXJ_lPFmweplKfil9uLUuoIXBwV-XBHM-sHw')
+bot.run('YOUR TOKEN')
